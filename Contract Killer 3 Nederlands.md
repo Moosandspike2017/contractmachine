@@ -76,15 +76,15 @@ Wij kunnen niet garanderen dat er geen fouten en daarom kunnen wij ook niet aans
 
 ### Copyright
 
-First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them.
+Ten eerste, garandeert u dat alle onderdelen van tekst, afbeeldingen of ander manteriaal dat u levert uw eigendom is, of dat u toestemming heeft deze te gebruiken.
 
-Then, when your final payment has cleared, copyright will be automatically assigned as follows:
+Ten tweede, wanneer de laatste betaling voldaan is, wordt het copyright alsvolgt overgedragen:
 
-You’ll own the visual elements that we create for this project. We’ll give you source files and finished files and you should keep them somewhere safe as we’re not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them.
+U bent de eigennaar van alle visuele onderdelen dat wij hebben ontwikkeld voor dit project. Wij leveren de bron bestanden en alle overige bestanden. De verantwoording wordt dan overgedragen aan u, wij houden hier geen kopie van bij. U bent de eigenaar van alle onderdelen zoals tekst, afbeeldingen en ander materiaal, tenzij deze van derde zijn.
 
-We’ll own the unique combination of these elements that constitutes a complete design and we’ll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+Wij houden eigenaarschap over de unieke samenstelling van de opbouw van de website die behoren tot het complete project en wij geven u hier exclusief de licensie voor om deze te gebruiken. Tenzij hier andere afspraken over gemaakt worden.
 
-We love to show off our work and share what we’ve learned with other people, so we reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
+Tot slot laten wij graag zien aan andere mensen wat wij gemaakt en geleerd hebben, daarom hebben wij het recht, met uw toestemming om een link naar het project te maken als onderdeel van ons portfolio en mogen wij er over schrijven op websites, tijdschiften en in boeken.
 
 ### Betalingen
 
