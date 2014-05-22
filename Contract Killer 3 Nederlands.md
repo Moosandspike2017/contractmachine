@@ -47,7 +47,8 @@ Wij leveren webpagina's ontwikkeld in PHP, HTML(5), CSS2.1 + 3 stylesheets om de
 
 ### Testen in Webbrowsers
 
-Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
+
+Het testen in browsers betekend niet langer het proberen om een website er hetzelfde eruit te laten zien in verschillende webbrowsers of op een ander apparaat. Het betekend er u van te verzerkeren dat de persoon die de website bezoekt de gepaste gebruikerservaring heeft op zowel browsers als andere apparaten.
 
 ### Desktop browser testen
 
