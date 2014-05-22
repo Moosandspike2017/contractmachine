@@ -39,7 +39,7 @@ Wij zijn niet verantwoordelijk om input te geven op textuele inhoud. Mocht u zel
 
 ### Afbeeldingen
 
-You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs for you, we can provide a separate estimate for that.
+U levert grafische bestanden in een bewerkbaar (vector) formaat. U moet de afbeeldingen in een hoog digitaal formaat aanleveren. Als u er voor kiest om stock afbeeldingen te gebruiken, kunnen wij een aantal partijen aanraden waar deze aangeschaft kunnen worden. Als u wilt dat wij afbeeldingen voor u zoeken, kunnen wij hier een aparte offerte voor maken
 
 ### PHP, HTML, CSS en JavaScript
 
