@@ -13,11 +13,11 @@ Tussen [bedrijfsnaam] en [naam opdrachtgever]
 
 ## Samenvatting:
 
-We’ll always do our best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
+Wij doen altijd ons best om uw wensen te vervullen en uw verwachtingen te evenaren, maar het is belangerijk om dit te documenteren zodat beide partijen weten wie, wat wanneer moet doen, en wat er gebeurt als er iets misgaat. In dit contract zullen geen lastige jurische termen gebruikt worden of lange onleesbare paragrafen. Wij hebben geen verlangen om u iets te laten tekenen waar u later misschien spijt van krijgt. Wij willen met dit document graag het beste doen voor beide partijen, nu en in de toekomst.
 
 In het kort;
 
-You ([naam opdrachtgever]), located at [adres opdrachtgever] are hiring us ([bedrijfsnaam]) located at [adres bedrijf] to [design and develop a web site] for the estimated total price of [totaal] as outlined in our previous correspondence. Of course it’s a little more complicated, but we’ll get to that.
+U ([naam opdrachtgever]), gevestigd aan [adres opdrachtgever] huurt ons ([bedrijfsnaam]) gevestigd aan [adres bedrijf] in om voor u een website te ontwikkelen voor het geschatte totaalprijs van [totaal] zoals besproken in onze vorige gesprekken ligt dit helaas iets lastiger, daarom hieronder verder een uitgebreide uitleg.
 
 ## Waar gaan beide partijen mee akkoord?
 
