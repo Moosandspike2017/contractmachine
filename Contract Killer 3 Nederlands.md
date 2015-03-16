@@ -21,9 +21,10 @@ U ([naam opdrachtgever]), gevestigd aan [adres opdrachtgever] huurt ons ([bedrij
 
 ## Waar gaan beide partijen mee akkoord?
 
-*U:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us everything we need to complete the project as and when and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+*U:* U heeft de bevoegdheid om dit contract te ondertekenen namens uwzelf, uw bedrijf of uw organizatie. U geeft ons toegang tot alles wat wij nodig hebben om het project succeesvol af te ronden, in het formaat wat wij aangeven.
+Wij bekijken uw werk, geven feedback en keuren het werk binnen aanzienbare tijd. De deadlines werken twee kanten op, deze stemmen wij samen vorgvuldig af. U gaat ook akkoord met ons betalings schema wat aan het einde van het contract wordt geformuleerd.
 
-*Wij:* We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
+*Wij:* Wij hebben de ervaring en de kennis om alles in een professionele manier optijd af te ronden. Wij streven ernaar om elke deadline te halen. Wij hebben een geheimhoudingsplicht over de bestanden die gedeeld worden tijdens onze samenwerking.
 
 ## Getting down to the nitty gritty
 
@@ -52,16 +53,17 @@ Het testen in browsers betekend niet langer het proberen om een website er hetze
 
 ### Desktop browser testen
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for older versions of Internet Explorer and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+Wij testen ons werk in de laatste versies van alle grote browsers, Apple (Safari), Google (Chrome), Microsoft (Internet Explorer) en Mozilla Firefox.
+Wij testen ook in Internet Explorer 9 for Windows. Omdat deze gebruikerservaring nog wel is kan schelen met de andere browsers. Lagere versies van de browsers testen wij niet. Als dit appart is aangegeven kunnen wij hier een apparte offerte voor maken.
 
 ### Mobile browser testen
 
-Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
+Het testen van alle populaire is in onze tijd een vereiste. Daartom testen wij in alle populaire browsers zodat een persoon de optimale gebruikerservaring beleeft. Wij testen on werk in:
 
 iOS: Safari, Google Chrome
-Android 4.x: Google Chrome and Firefox
+Android 4.x: Google Chrome en Firefox
 
-We currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
+Op dit moment testen wij niet Blackberry, Opera Mini/Mobile, Windows Phone en andere mobiele browsers. Als u wilt dat wij deze ook testen kunnen wij hier een apparte offerte voor maken.
 
 ### Technische ondersteuning
 
