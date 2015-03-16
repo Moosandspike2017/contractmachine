@@ -4,7 +4,7 @@
 
 * * *
 * Eerste publicatie: 23/12/2008
-* Laatst Herzien: 15/12/2013
+* Laatst Herzien: 16/03/2015
 * [Vertaald vanaf](http://stuffandnonsense.co.uk/projects/contract-killer/)
 * * *
 
