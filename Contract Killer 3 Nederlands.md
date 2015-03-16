@@ -4,7 +4,7 @@
 
 * * *
 * Eerste publicatie: 23/12/2008
-* Laatst Herzien: 16/03/2015
+* Laatst Herzien: 15/12/2013
 * [Vertaald vanaf](http://stuffandnonsense.co.uk/projects/contract-killer/)
 * * *
 
@@ -26,13 +26,14 @@ Wij bekijken uw werk, geven feedback en keuren het werk binnen aanzienbare tijd.
 
 *Wij:* Wij hebben de ervaring en de kennis om alles in een professionele manier optijd af te ronden. Wij streven ernaar om elke deadline te halen. Wij hebben een geheimhoudingsplicht over de bestanden die gedeeld worden tijdens onze samenwerking.
 
-## Getting down to the nitty gritty
+## Juridisch
 
-### Design
+### Ontwerp
 
-We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
+Wij ontwerpen look&feel fesigns, flexibele layouts die zich aan passen aan verschillende schermgrotes. Wij beginnen zo snel mogelijk met de ontwikkeling zodat wij geen tijd verspillen aan het maken van talloze statische voorbeelden.
+Wij gebruiken wel statische voorbeelden om kleuren, textures en typography te overleggen. Dit om het proces te versnellen en de kosten te drukken.
 
-You’ll have plenty of opportunities to review our work and provide feedback. We’ll share our working Dropbox with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+U heeft zat mogelijkheden om het werk wat wij leveren in te zien en feedback te geven. Wij delen ons werk in Dropbox en hebben zo nodig regelmatig contact. Als u niet tevragen bent met welke richting het werk op gaat. Dient u ons te betalen tot en met het punt waar wij in het project zijn gebleven. Daarna kunt u dit contract ontbinden.
 
 ### Textuele Inhoud
 
@@ -67,11 +68,12 @@ Op dit moment testen wij niet Blackberry, Opera Mini/Mobile, Windows Phone en an
 
 ### Technische ondersteuning
 
-We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
+Wij zijn geen web hosting bedrijf, daarom leveren wij geen support voor website hosting, email of andere diensten met betrekking tot hosting. Als u al een samenwerking heeft met een webhosting bedrijf, of als u dit in house doet is dat fijn. Mocht dit niet het geval zijn, dan kunnen wij u helpen met het aanraden van een web hosting bedrijf. Wij kunnen de website instellen op een server en eventueel statistische software installeeren als Google Analytics.
+Mocht dit het geval zijn, maken wij hiervoor een apparte offerte. Als u dit niet doet komen de updates van de website en server voor uw eigen rekening.
 
 ### Herzieningen
 
-We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that.
+Wij weten uit ervaring dat als er een vast bedrag voor het contract wordt gerekend er geen voordeel speelt voor u, omdat deze u vaak beperkt tot uw initiele idee. De prijs in dit contract is gebaseerd op een schatting van de inititele tijd die wij nodig hebben om uw visie succesvol te bereiken.  Uiteraard zijn wij flexiebel. Als u wijzigingen, nieuwe functies of een nieuw idee wilt doorvoeren, is dat uiteraard geen probleem. Hiervoor kunnen wij een nieuwe offerte maken.
 
 ### Juridische informatie
 
