@@ -1,6 +1,6 @@
 # Contract Killer Nederlands
 ### The popular open-source contract for web designers and developers by [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
-Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet echt tevreden over de vertaling, en ik wilde een versie gericht op een enkele freelancer. Dat is deze versie geworden.
+Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet echt tevreden over de vertaling, en ik wilde een versie gericht op een enkele freelancer, in dit geval op mijn eigen webdesign diensten. Dat is deze versie geworden.
 
 * * *
 
@@ -27,16 +27,18 @@ Het ligt uiteraard iets gecompliceerder dan dit, maar daar komen we zo op terug.
 
 *Ik:* Ik heb de ervaring en kennis is huis om alles te doen wat wij samen afspreken, en dat doe ik allemaal op professionele en tijdige wijze. Ik streef ernaar elke overeengekomen deadline te halen, en ga op vertrouwelijke wijze met de door u ter beschikking gestelde gegevens om.
 
-## Juridisch
+## Op naar de details
 
 ### Ontwerp
 
-Wij ontwerpen look&feel fesigns, flexibele layouts die zich aan passen aan verschillende schermgrotes. Wij beginnen zo snel mogelijk met de ontwikkeling zodat wij geen tijd verspillen aan het maken van talloze statische voorbeelden.
-Wij gebruiken wel statische voorbeelden om kleuren, textures en typography te overleggen. Dit om het proces te versnellen en de kosten te drukken.
+Ik ontwerp look-and-feel ontwerpen, flexibele layouts die zich aanpassen aan de mogelijkheden van verschillende apparatuur en schermgroottes. Ik maak gebruik van het open source programma WordPress, HTML en CSS om de ontwerpen te realiseren. Ik versnel het ontwerpproces, en hou zodoende de kosten laag, door gebruik te maken van een ontwikkel framework en basisthema.
 
-U heeft zat mogelijkheden om het werk wat wij leveren in te zien en feedback te geven. Wij delen ons werk in Dropbox en hebben zo nodig regelmatig contact. Als u niet tevragen bent met welke richting het werk op gaat. Dient u ons te betalen tot en met het punt waar wij in het project zijn gebleven. Daarna kunt u dit contract ontbinden.
+U krijgt voldoende de mogelijkheid om mijn werk te bekijken, beoordelen, en uw feedback te geven. Ik deel een link naar de site die ik ontwikkel, en we hebben regelmatig contact.
 
-### Textuele Inhoud
+Wanneer u zich op enig moment gedurende het proces bedenkt over wat u wilt, en niet blij bent met de richting die ik opga met het werk, dan vergoedt u mij volledig voor de tijd die ik in het project heb gestoken, waarna u het contract ontbindt.
+
+
+### Tekstuele Inhoud
 
 Wij zijn niet verantwoordelijk om input te geven op textuele inhoud. Mocht u zelf willen dat er inhoud voor u gemaakt wordt, dan kunnen wij hiervoor een aparte offerte voor maken.
 
