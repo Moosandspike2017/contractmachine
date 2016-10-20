@@ -17,16 +17,15 @@ Tussen [freelancer] en [naam opdrachtgever]
 
 Ik doen altijd mijn best om uw wensen te vervullen en uw verwachtingen te evenaren. Toch is het belangrijk om de zaken op papier te zetten, zodat wij beiden weten wat wat is, wie wat doet en wanneer, en wat er gebeurt mocht er toch iets misgaan. In dit contract komt u geen moeilijke juridische termen of lange stukken onleesbare tekst. Het is niet mijn bedoeling u een contract te laten tekenen waar u misschien later spijt van krijgt. Wel wil ik het beste doen voor beide partijen, nu en in de toekomst.
 
-U (*[naam opdrachtgever]*), gevestigd aan *[adres opdrachtgever]* huurt mij, (*[bedrijfsnaam]*) gevestigd aan *[adres bedrijf]* in om voor u een website te ontwikkelen voor de geschatte totaalprijs van *[totaal]*, zoals besproken in onze gesprekken.
+U (**[naam opdrachtgever]**), gevestigd aan **[adres opdrachtgever]** huurt mij, (**[bedrijfsnaam]**) gevestigd aan **[adres bedrijf]** in om voor u een website te ontwikkelen voor de geschatte totaalprijs van **[totaal]**, zoals besproken in onze gesprekken.
 Het ligt uiteraard iets gecompliceerder dan dit, maar daar komen we zo op terug.
 
 
 ## Waar gaan beide partijen mee akkoord?
 
-*U:* U heeft de bevoegdheid om dit contract te ondertekenen namens uwzelf, uw bedrijf of uw organizatie. U geeft ons toegang tot alles wat wij nodig hebben om het project succeesvol af te ronden, in het formaat wat wij aangeven.
-Wij bekijken uw werk, geven feedback en keuren het werk binnen aanzienbare tijd. De deadlines werken twee kanten op, deze stemmen wij samen vorgvuldig af. U gaat ook akkoord met ons betalings schema wat aan het einde van het contract wordt geformuleerd.
+*U:* U heeft de bevoegdheid om een contract met mij aan te gaan namens uzelf, uw onderneming of uw organisatie. U geeft mij toegang tot alle informatie die ik nodig heb om het project succesvol te kunnen voltooien. U levert deze informatie wanneer ik het vraag, en in het formaat waar ik om vraag. U beoordeelt tijdig mijn werk, geeft tijdig een terugkoppeling, en geeft ook tijdig uw goedkeuring. Deadlines werken twee kanten op, en u bent dus ook gebonden aan de datums die wij samen overeenkomen. U spreekt ook af dat u zich aan het betalingsschema, dat aan het eind van dit contract wordt besproken, houdt.
 
-*Wij:* Wij hebben de ervaring en de kennis om alles in een professionele manier optijd af te ronden. Wij streven ernaar om elke deadline te halen. Wij hebben een geheimhoudingsplicht over de bestanden die gedeeld worden tijdens onze samenwerking.
+*Ik:* Ik heb de ervaring en kennis is huis om alles te doen wat wij samen afspreken, en dat doe ik allemaal op professionele en tijdige wijze. Ik streef ernaar elke overeengekomen deadline te halen, en ga op vertrouwelijke wijze met de door u ter beschikking gestelde gegevens om.
 
 ## Juridisch
 
