@@ -1,10 +1,10 @@
-# Contract Killer Nederlands
-### The popular open-source contract for web designers and developers by [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
-Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet echt tevreden over de vertaling, en ik wilde een versie gericht op een enkele freelancer, in dit geval op mijn eigen webdesign diensten. Dat is deze versie geworden.
+# Contract Killer voor freelancers - Nederlands
+### Fork van het populaire open-source contract voor webdesigners en ontwikkelaars van [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
+Het contract is in eerste instantie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet tevreden over deze vertaling, en wilde een versie gericht op een enkele freelancer, in dit geval op mijn eigen webdesign diensten. Dat is deze versie geworden. Je kunt dit contract eenvoudig forken en aanpassen naar je eigen situatie.
 
 * * *
 
-* Riginele publicatie van het contract: 23 december 2008
+* Originele publicatie van het contract: 23 december 2008
 * Laatst herzien: 10 oktober 2016
 * [Originele post van Stuff and Nonsense](http://stuffandnonsense.co.uk/projects/contract-killer/) waarin het contract wordt uitgelegd.
 
@@ -13,7 +13,7 @@ Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenb
 
 Tussen [freelancer] en [naam opdrachtgever]
 
-## Samenvatting:
+## Samenvatting
 
 Ik doen altijd mijn best om uw wensen te vervullen en uw verwachtingen te evenaren. Toch is het belangrijk om de zaken op papier te zetten, zodat wij beiden weten wat wat is, wie wat doet en wanneer, en wat er gebeurt mocht er toch iets misgaan. In dit contract komt u geen moeilijke juridische termen of lange stukken onleesbare tekst. Het is niet mijn bedoeling u een contract te laten tekenen waar u misschien later spijt van krijgt. Wel wil ik het beste doen voor beide partijen, nu en in de toekomst.
 
@@ -44,7 +44,7 @@ Tenzij apart overeengekomen ben ik niet verantwoordelijk voor het invoeren van t
 
 ### Afbeeldingen
 
-U levert grafische bestanden in een bewerkbaar (vector) formaat. U moet de afbeeldingen in een hoog digitaal formaat aanleveren. Als u er voor kiest om stock afbeeldingen te gebruiken, kunnen wij een aantal partijen aanraden waar deze aangeschaft kunnen worden. Als u wilt dat wij afbeeldingen voor u zoeken, kunnen wij hier een aparte offerte voor maken
+Om resultaat van goede kwaliteit te kunnen waarborgen, dient u mij grafische bestanden in een (be)werkbaar formaat aan te leveren. Afbeeldingen vanuit Google worden niet gebruikt vanwege copyright. Afbeeldingen dient u te leveren in digitaal formaat van hoge resolutie. Kiest u ervoor om stock foto’s te gebruiken, dan kan ik u hiervoor de beste websites aanraden. Wilt u dat ik op zoek ga naar geschikte foto’s en afbeeldingen, dan kan ik hiervoor een aparte offerte maken.
 
 ### PHP, HTML, CSS en JavaScript
 
