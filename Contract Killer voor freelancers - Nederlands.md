@@ -46,9 +46,9 @@ Tenzij apart overeengekomen ben ik niet verantwoordelijk voor het invoeren van t
 
 Om resultaat van goede kwaliteit te kunnen waarborgen, dient u mij grafische bestanden in een (be)werkbaar formaat aan te leveren. Afbeeldingen vanuit Google worden niet gebruikt vanwege copyright. Afbeeldingen dient u te leveren in digitaal formaat van hoge resolutie. Kiest u ervoor om stock foto’s te gebruiken, dan kan ik u hiervoor de beste websites aanraden. Wilt u dat ik op zoek ga naar geschikte foto’s en afbeeldingen, dan kan ik hiervoor een aparte offerte maken.
 
-### PHP, HTML, CSS en JavaScript
+### WordPress, HTML, CSS en JavaScript
 
-Wij leveren webpagina's ontwikkeld in PHP, HTML(5), CSS2.1 + 3 stylesheets om de website voor te geven. Javascript wordt eventueel gebruikt voor andere functionaliteiten.
+Ik lever een website die is ontwikkeld in de laatste versie van het content management systeem WordPress, aangevuld met HTML en CSS stylesheets om de website vorm te geven. Javascript wordt eventueel gebruikt voor het toevoegen van extra functionaliteit.
 
 ### Testen in Webbrowsers
 
