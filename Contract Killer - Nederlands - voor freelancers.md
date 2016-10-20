@@ -1,17 +1,17 @@
 # Contract Killer Nederlands
 ### The popular open-source contract for web designers and developers by [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
-Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). [Ik](https://robinroelofsen.nl/) was niet tevreden over de vertaling, en ik wilde een versie gericht op een enkele freelancer. Dat is deze versie geworden.
+Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet echt tevreden over de vertaling, en ik wilde een versie gericht op een enkele freelancer. Dat is deze versie geworden.
 
 * * *
 
-* Eerste publicatie: 23/12/2008
-* Laatst Herzien: 15/12/2013
+* Riginele publicatie van het contract: 23/12/2008
+* Laatst herzien: 15/12/2013
 * [Originele post van Stuff and Nonsense](http://stuffandnonsense.co.uk/projects/contract-killer/) waarin het contract wordt uitgelegd.
 
 * * *
 
 
-Tussen [bedrijfsnaam] en [naam opdrachtgever]
+Tussen [freelancer] en [naam opdrachtgever]
 
 ## Samenvatting:
 
