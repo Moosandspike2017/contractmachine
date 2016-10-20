@@ -3,9 +3,11 @@
 ### The popular open-source contract vertaald naar het Nederlands dit contact is bedoeld voor web designers en developers door [Tim Hogenbirk](http://www.timhogenbirk.com/)
 
 * * *
+
 * Eerste publicatie: 23/12/2008
 * Laatst Herzien: 15/12/2013
 * [Originele post van Stuff and Nonsense](http://stuffandnonsense.co.uk/projects/contract-killer/)
+
 * * *
 
 
