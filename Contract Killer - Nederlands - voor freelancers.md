@@ -4,8 +4,8 @@ Het contract is in eerste instatie vertaald naar het Nederlands door [Tim Hogenb
 
 * * *
 
-* Riginele publicatie van het contract: 23/12/2008
-* Laatst herzien: 15/12/2013
+* Riginele publicatie van het contract: 23 december 2008
+* Laatst herzien: 10 oktober 2016
 * [Originele post van Stuff and Nonsense](http://stuffandnonsense.co.uk/projects/contract-killer/) waarin het contract wordt uitgelegd.
 
 * * *
@@ -15,7 +15,7 @@ Tussen [freelancer] en [naam opdrachtgever]
 
 ## Samenvatting:
 
-Wij doen altijd ons best om uw wensen te vervullen en uw verwachtingen te evenaren, maar het is belangerijk om dit te documenteren zodat beide partijen weten wie, wat wanneer moet doen, en wat er gebeurt als er iets misgaat. In dit contract zullen geen lastige jurische termen gebruikt worden of lange onleesbare paragrafen. Wij hebben geen verlangen om u iets te laten tekenen waar u later misschien spijt van krijgt. Wij willen met dit document graag het beste doen voor beide partijen, nu en in de toekomst.
+Ik doen altijd mijn best om uw wensen te vervullen en uw verwachtingen te evenaren. Toch is het belangrijk om de zaken op papier te zetten, zodat wij beiden weten wat wat is, wie wat doet en wanneer, en wat er gebeurt mocht er toch iets misgaan. In dit contract komt u geen moeilijke juridische termen of lange stukken onleesbare tekst. Het is niet mijn bedoeling u een contract te laten tekenen waar u misschien later spijt van krijgt. Wel wil ik het beste doen voor beide partijen, nu en in de toekomst.
 
 In het kort;
 
