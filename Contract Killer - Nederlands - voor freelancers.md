@@ -40,7 +40,7 @@ Wanneer u zich op enig moment gedurende het proces bedenkt over wat u wilt, en n
 
 ### Tekstuele Inhoud
 
-Wij zijn niet verantwoordelijk om input te geven op textuele inhoud. Mocht u zelf willen dat er inhoud voor u gemaakt wordt, dan kunnen wij hiervoor een aparte offerte voor maken.
+Tenzij apart overeengekomen ben ik niet verantwoordelijk voor het invoeren van tekst of afbeeldingen in het content management systeem, of voor het maken van iedere pagina op uw website. Ik lever professionele copywriting en correctie diensten, dus wanneer u wilt dat ik nieuwe content (tekst en/of afbeeldingen) voor u maak, of dat ik content voor u invoer, dan kan ik hiervoor een aparte offerte maken.
 
 ### Afbeeldingen
 
