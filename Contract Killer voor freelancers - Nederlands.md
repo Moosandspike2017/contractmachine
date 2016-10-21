@@ -17,7 +17,7 @@ Tussen [freelancer] en [naam opdrachtgever]
 
 Ik doen altijd mijn best om uw wensen te vervullen en uw verwachtingen te evenaren. Toch is het belangrijk om de zaken op papier te zetten, zodat wij beiden weten wat wat is, wie wat doet en wanneer, en wat er gebeurt mocht er toch iets misgaan. In dit contract komt u geen moeilijke juridische termen of lange stukken onleesbare tekst. Het is niet mijn bedoeling u een contract te laten tekenen waar u misschien later spijt van krijgt. Wel wil ik het beste doen voor beide partijen, nu en in de toekomst.
 
-U (**[naam opdrachtgever]**), gevestigd aan **[adres opdrachtgever]** huurt mij, (**[bedrijfsnaam]**) gevestigd aan **[adres bedrijf]** in om voor u een website te ontwikkelen voor de geschatte totaalprijs van **[totaal]**, zoals besproken in onze gesprekken.
+U ([naam opdrachtgever]), gevestigd aan [adres opdrachtgever] huurt mij, ([bedrijfsnaam]) gevestigd aan [adres bedrijf] in om voor u een website te ontwikkelen voor de geschatte totaalprijs van [totaal], zoals besproken in onze gesprekken.
 Het ligt uiteraard iets gecompliceerder dan dit, maar daar komen we zo op terug.
 
 
