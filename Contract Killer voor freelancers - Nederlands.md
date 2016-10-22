@@ -1,6 +1,6 @@
 # Contract Killer voor freelancers - Nederlands
 ### Fork van het populaire open-source contract voor webdesigners en ontwikkelaars van [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
-Het contract is in eerste instantie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet tevreden over deze vertaling, en wilde een versie gericht op een enkele freelancer, in dit geval op mijn eigen webdesign diensten. Dat is deze versie geworden. Je kunt dit contract eenvoudig forken en aanpassen naar je eigen situatie.
+Het contract is in eerste instantie vertaald naar het Nederlands door [Tim Hogenbirk](http://www.timhogenbirk.com/). Deze versie zat vol taal- en grammaticafouten, en ik, [Robin Roelofsen](https://robinroelofsen.nl/) was niet tevreden over deze vertaling. Ik wilde een versie gericht op een enkele freelancer, in dit geval op mijn eigen webdesign diensten. Dat is deze versie geworden. Je kunt dit contract eenvoudig forken en aanpassen naar je eigen situatie.
 
 * * *
 
