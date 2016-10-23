@@ -41,7 +41,7 @@ U krijgt voldoende de mogelijkheid om mijn werk te bekijken, beoordelen, en uw f
 Wanneer u zich op enig moment gedurende het proces bedenkt over wat u wilt, en niet blij bent met de richting die ik opga met het werk, dan vergoedt u mij volledig voor de tijd die ik in het project heb gestoken, waarna u het contract ontbindt.
 
 
-### Tekstuele Inhoud
+### Tekstuele inhoud
 
 Tenzij apart overeengekomen ben ik niet verantwoordelijk voor het invoeren van tekst of afbeeldingen in het content management systeem, of voor het maken van iedere pagina op uw website. Ik lever professionele copywriting en correctie diensten, dus wanneer u wilt dat ik nieuwe content (tekst en/of afbeeldingen) voor u maak, of dat ik content voor u invoer, dan kan ik hiervoor een aparte offerte maken.
 
