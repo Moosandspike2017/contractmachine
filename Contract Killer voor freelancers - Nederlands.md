@@ -105,8 +105,6 @@ Uw aansprakelijkheid naar mij toe is beperkt tot het bedrag van de vergoedingen 
 
 Ten slotte, wanneer enige bepaling van deze overeenkomst onwettig, nietig, of om enige reden niet afdwingbaar is, dan wordt die bepaling scheidbaar van dit contract geacht, en zal het geen invloed hebben op de geldigheid en uitvoerbaarheid van de overige bepalingen.
 
-Oef.
-
 ### Copyright
 
 Ten eerste, garandeert u dat alle onderdelen van tekst, afbeeldingen of ander manteriaal dat u levert uw eigendom is, of dat u toestemming heeft deze te gebruiken.
