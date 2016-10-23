@@ -174,4 +174,4 @@ Naam	:
 Onderneming	:	
 
 
-*Elk persoon die dit document tekent moet een kopie houden voor eigen administratie.*
+*Elk persoon die dit document tekent moet een kopie houden voor de eigen administratie.*
