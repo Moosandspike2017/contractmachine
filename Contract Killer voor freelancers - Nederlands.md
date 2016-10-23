@@ -129,22 +129,47 @@ Ik laat mijn werk graag zien. Daarvoor behoud ik me het recht voor alle aspecten
 
 ### Betalingen
 
-Wij hopen dat u begrijpt hoe belangrijk het is dat bij kleine bedrijven de openstaande betalingen zo snel mogelijk worden betaald. Want natuurlijk willen wij u graag te klant houden, bij deze gaat u akkoord zicht te voldoen aan het onderstaand betalings schema.
+Ik weet zeker dat u begrijpt hoe belangrijk het is voor een klein bedrijf dat u de facturen die ik u stuur zo snel mogelijk betaalt. Omdat ik ook zeker weet dat u alles vriendelijk wilt houden tussen ons, gaat u akkoord u strak aan het volgende betalingsschema te houden.
 
-[Betalings schema]
+#### Betalingsdetails
+
+#### Betalingsschema
+
+Ik stuur mijn facturen elektronisch in Adobe PDF formaat. Mijn betalingsvoorwaarden zijn [aantal] dagen na de factuurdatum door BACS of het SWIFT-systeem internationale betalingen.
+
+Alle offertes zijn genoteerd in [valuta] en betalingen zullen worden gemaakt op de overeenkomende wisselkoers op de datum waarop de overdracht plaatsvindt. De juiste bankgegevens staan op mijn elektronische factuur.
+
+U stemt ermee in eventueel alle kosten die worden geassocieerd met de internationale geldovermakingen te betalen.
+
+Ik behoud mij het recht voor om [percentage] rente per maand of gedeelte van een maand op alle achterstallige facturen te heffen.
 
 ### Waar zijn de 'kleine lettertjes'?
 
-Net als een parkeerboete, kan je dit cortract niet overdragen aan een ander zonder onze toestemming. Dit contract blijft geldig en wordt niet vernieuwd. Mocht om een reden een deel van dit contract zijn rechtsgeldigheid verliezen of niet toegepast kunnen worden, blijven de overige delen van dit contract wel geldig.
+Net als bij een parkeerboete kunnen wij dit contract allebei niet aan een andere persoon overdragen zonder de toestemming van de ander.
 
-Hoewel dit de gebruikte taal in dit document als simpel kan worden ervaren, zijn de bedoelingen van dit contract serieus en is het contract rechtsgeldig bevonden onder de Nederlandse wetgeving.
+Wij gaan beiden akkoord ons te houden aan alle relevante wetten en regelgeving met betrekking tot de activiteiten in dit contract, en ervoor te zorgen dat door onze acties de ander niet onverhoopt in de problemen met relevante wetten of regelgeving komt.
 
-### Handtekeningen
+Dit contract blijft geldig en hoeft niet te worden vernieuwd. Wanneer om enige reden een bepaling binnen deze overeenkomst ongeldig of niet afdwingbaar wordt, dan zal dit geen invloed hebben op de geldigheid en uitvoerbaarheid van de overige bepalingen.
 
-Getekend door en in naam van [bedrijfsnaam]
+Hoewel het taalgebruik redelijk eenvoudig is, zijn de bedoelingen serieus, en is dit contract een juridisch document onder de Nederlandse wetgeving.
 
-Getekend door en in naam van [naam opdrachtgever]
+### Handtekeningen Webdesign Contract
 
-Datum [datum]
 
-Elk persoon die dit document tekent moet een kopie houden voor eigen administratie.
+
+
+Ondertekend op	:	
+		
+Naam	:	
+Onderneming	:	
+
+
+
+
+Ondertekend op	:	
+		
+Naam	:	
+Onderneming	:	
+
+
+*Elk persoon die dit document tekent moet een kopie houden voor eigen administratie.*
