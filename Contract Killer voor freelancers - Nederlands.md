@@ -105,17 +105,25 @@ Uw aansprakelijkheid naar mij toe is beperkt tot het bedrag van de vergoedingen 
 
 Ten slotte, wanneer enige bepaling van deze overeenkomst onwettig, nietig, of om enige reden niet afdwingbaar is, dan wordt die bepaling scheidbaar van dit contract geacht, en zal het geen invloed hebben op de geldigheid en uitvoerbaarheid van de overige bepalingen.
 
-### Copyright
+### Auteursrechten
 
-Ten eerste, garandeert u dat alle onderdelen van tekst, afbeeldingen of ander manteriaal dat u levert uw eigendom is, of dat u toestemming heeft deze te gebruiken.
+Voor alle duidelijkheid, "intellectuele eigendomsrechten" zijn: alle octrooien, rechten op uitvindingen, auteursrechten (met inbegrip van rechten binnen software) en naburige rechten, handelsmerken, dienstmerken, opstaan en handelsnamen, internet domeinnamen, rechten op goodwill, of aan te klagen wegens misbruik, rechten op ontwerpen, database, rechten op vertrouwelijke informatie (met inbegrip van knowhow) en alle andere intellectuele eigendomsrechten, in ieder geval al dan niet geregistreerd en met inbegrip van alle toepassingen (of rechten toe te passen) voor, en vernieuwingen of uitbreidingen van dergelijke rechten en alle soortgelijke of gelijkwaardige rechten of vormen van bescherming die bestaan of wordt nu of in de toekomst blijven bestaan in een deel van de wereld.
 
-Ten tweede, wanneer de laatste betaling voldaan is, wordt het copyright alsvolgt overgedragen:
+Een hele mond vol, maar terug te brengen tot een aantal regels.
 
-U bent de eigennaar van alle visuele onderdelen dat wij hebben ontwikkeld voor dit project. Wij leveren de bron bestanden en alle overige bestanden. De verantwoording wordt dan overgedragen aan u, wij houden hier geen kopie van bij. U bent de eigenaar van alle onderdelen zoals tekst, afbeeldingen en ander materiaal, tenzij deze van derde zijn.
+Ten eerste, u garandeert dat alle elementen van de tekst, afbeeldingen of andere grafisch werk die u verstrekt ofwel eigendom zijn van u zelf, of dat u toestemming hebt om ze te gebruiken. Wanneer u tekst, afbeeldingen of ander grafisch werk aan mij verstrekt, gaat u ermee akkoord mij te beschermen tegen vorderingen van derden dat ik hun intellectuele eigendom gebruik.
 
-Wij houden eigenaarschap over de unieke samenstelling van de opbouw van de website die behoren tot het complete project en wij geven u hier exclusief de licensie voor om deze te gebruiken. Tenzij hier andere afspraken over gemaakt worden.
+Ik garandeer dat alle elementen van het werk dat ik aan u te lever, eigendom van mij is of ik heb de toestemming verkregen deze aan u te leveren. Wanneer ik tekst, afbeeldingen of ander grafisch werk aan u verstrek, ga ik ermee akkoord u te beschermen tegen vorderingen van derden dat u hun intellectuele eigendom gebruik.
 
-Tot slot laten wij graag zien aan andere mensen wat wij gemaakt en geleerd hebben, daarom hebben wij het recht, met uw toestemming om een link naar het project te maken als onderdeel van ons portfolio en mogen wij er over schrijven op websites, tijdschiften en in boeken.
+Op voorwaarde dat u heeft betaald voor het werk en dat dit contract niet is beëindigd, worden alle intellectuele eigendomsrechten als volgt aan u toegewezen:
+
+U bezit de website die ik voor u ontwerp, inclusief de visuele elementen die ik voor u maak. Ik geef u de bronbestanden en uiteindelijke bestanden, en u dient deze veilig  te geven en u bent verantwoordelijk voor het veilig opbergen van deze bestanden. Ik ben niet verplicht deze bestanden te bewaren. U bezit alle intellectuele eigendomsrechten van tekst, afbeeldingen, site specificatie en gegevens die u heeft verstrekt, tenzij iemand anders deze bezit.
+
+Ik bezit de intellectuele eigendomsrechten voor alles wat ik hebt ontwikkeld voor, of ontwikkeld los van, dit project, en niet betaald door u. Ik bezit de rechten op de unieke combinatie van deze elementen die samen een compleet ontwerp vormen, en geef u het gebruik hiervan in licentie, exclusief, en tot in de eeuwigheid voor dit project alleen, tenzij we anders overeenkomen.
+
+### Weergave van mijn werk
+
+Ik hou ervan mijn werk te laten zien. Daarvoor behoud ik me het recht voor alle aspecten van mijn creatieve werk, met inbegrip van schetsen, work-in-progress ontwerpen en het voltooide project op mijn portfolio en in artikelen op websites, artikelen in tijdschriften, en in boeken te tonen.
 
 ### Betalingen
 
