@@ -55,24 +55,24 @@ Kiest u ervoor om stock foto’s te gebruiken, dan kan ik u hiervoor de beste we
 
 Ik lever een website die is ontwikkeld in de laatste versie van het content management systeem WordPress, aangevuld met HTML en CSS stylesheets om de website vorm te geven. Javascript wordt eventueel gebruikt voor het toevoegen van extra functionaliteit.
 
-### Testen in Webbrowsers
+### Testen in webbrowsers
 
+Het testen in browsers betekent tegenwoordig niet meer het proberen om een website er hetzelfde eruit te laten zien in browsers met andere mogelijkheden of op apparatuur met verschillende schermgroottes. Het houdt in dat ik ervoor zorg dat de gebruikerservaring van de bezoeker aangepast is aan de mogelijkheden van de browser of het apparaat.
 
-Het testen in browsers betekend niet langer het proberen om een website er hetzelfde eruit te laten zien in verschillende webbrowsers of op een ander apparaat. Het betekend er u van te verzerkeren dat de persoon die de website bezoekt de gepaste gebruikerservaring heeft op zowel browsers als andere apparaten.
+Ik test mijn werk in de huidige versies van de grote desktop webbrowsers die werken onder Windows, namelijk Google Chrome, Microsoft Edge, Mozilla Firefox en Opera. De browser van Apple, Safari, wordt al enige jaren niet meer ondersteund voor Windows.
 
-### Desktop browser testen
+Ik test de website ook in Internet Explorer 11 om zeker te zijn dat mensen die hier nog gebruik van maken een goede ervaring hebben. Ik test niet in oudere versies van deze browsers. Wanneer u een versie van de site wilt die beter werkt in een oudere browser, dan kan ik hiervoor een aparte offerte opstellen.
 
-Wij testen ons werk in de laatste versies van alle grote browsers, Apple (Safari), Google (Chrome), Microsoft (Internet Explorer) en Mozilla Firefox.
-Wij testen ook in Internet Explorer 9 for Windows. Omdat deze gebruikerservaring nog wel is kan schelen met de andere browsers. Lagere versies van de browsers testen wij niet. Als dit appart is aangegeven kunnen wij hier een apparte offerte voor maken.
+### Testen in mobiele browsers
 
-### Mobile browser testen
+Uw website moet tegenwoordig perfect overkomen en werken op populaire apparaten met kleinere schermen. Het testen van uw website op mobiele apparaten om er zeker van tye zijn dat de gebruikerservaring aangepast is aan de mogelijkheden van de browser of het apparaat.
 
-Het testen van alle populaire is in onze tijd een vereiste. Daartom testen wij in alle populaire browsers zodat een persoon de optimale gebruikerservaring beleeft. Wij testen on werk in:
+Ik test mijn werk in:
 
-iOS: Safari, Google Chrome
-Android 4.x: Google Chrome en Firefox
+-	Android: Google Chrome en Firefox (via emulator)
+-	iOS: Safara (via iOS emulator)
 
-Op dit moment testen wij niet Blackberry, Opera Mini/Mobile, Windows Phone en andere mobiele browsers. Als u wilt dat wij deze ook testen kunnen wij hier een apparte offerte voor maken.
+Ik test niet op Blackberry, Opera Mini voor Mobiel, Windows Phone, of met andere mobiele browsers. Wilt u dat ik hierop test, dan kan ik hiervoor een aparte offerte opstellen.
 
 ### Technische ondersteuning
 
