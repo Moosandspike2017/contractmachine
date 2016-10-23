@@ -5,7 +5,7 @@ Het contract is in eerste instantie vertaald naar het Nederlands door [Tim Hogen
 * * *
 
 * Originele publicatie van het contract: 23 december 2008
-* Laatst herzien: 10 oktober 2016
+* Laatst herzien: 23 oktober 2016
 * [Originele post van Stuff and Nonsense](http://stuffandnonsense.co.uk/projects/contract-killer/) waarin het contract wordt uitgelegd.
 
 * * *
