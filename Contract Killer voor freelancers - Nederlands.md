@@ -53,7 +53,7 @@ Kiest u ervoor om stock foto’s te gebruiken, dan kan ik u hiervoor de beste we
 
 ### WordPress, HTML, CSS en JavaScript
 
-Ik lever een website die is ontwikkeld in de laatste versie van het content management systeem WordPress, aangevuld met HTML en CSS stylesheets om de website vorm te geven. Javascript wordt eventueel gebruikt voor het toevoegen van extra functionaliteit.
+Ik lever een website die is ontwikkeld in de laatste versie van het content management systeem WordPress, aangevuld met HTML en CSS stylesheets om de website vorm te geven. JavaScript wordt eventueel gebruikt voor het toevoegen van extra functionaliteit.
 
 ### Testen in webbrowsers
 
