@@ -107,7 +107,9 @@ Ten slotte, wanneer enige bepaling van deze overeenkomst onwettig, nietig, of om
 
 ### Auteursrechten
 
-Voor alle duidelijkheid, "intellectuele eigendomsrechten" zijn: alle octrooien, rechten op uitvindingen, auteursrechten (met inbegrip van rechten binnen software) en naburige rechten, handelsmerken, dienstmerken, opstaan en handelsnamen, internet domeinnamen, rechten op goodwill, of aan te klagen wegens misbruik, rechten op ontwerpen, database, rechten op vertrouwelijke informatie (met inbegrip van knowhow) en alle andere intellectuele eigendomsrechten, in ieder geval al dan niet geregistreerd en met inbegrip van alle toepassingen (of rechten toe te passen) voor, en vernieuwingen of uitbreidingen van dergelijke rechten en alle soortgelijke of gelijkwaardige rechten of vormen van bescherming die bestaan of wordt nu of in de toekomst blijven bestaan in een deel van de wereld.
+Voor alle duidelijkheid, "intellectuele eigendomsrechten" zijn:
+
+*Alle octrooien, rechten op uitvindingen, auteursrechten (met inbegrip van rechten binnen software) en naburige rechten, handelsmerken, dienstmerken, opstaan en handelsnamen, internet domeinnamen, rechten op goodwill, of aan te klagen wegens misbruik, rechten op ontwerpen, database, rechten op vertrouwelijke informatie (met inbegrip van knowhow) en alle andere intellectuele eigendomsrechten, in ieder geval al dan niet geregistreerd en met inbegrip van alle toepassingen (of rechten toe te passen) voor, en vernieuwingen of uitbreidingen van dergelijke rechten en alle soortgelijke of gelijkwaardige rechten of vormen van bescherming die bestaan of wordt nu of in de toekomst blijven bestaan in een deel van de wereld.*
 
 Een hele mond vol, maar terug te brengen tot een aantal regels.
 
