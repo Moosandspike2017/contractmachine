@@ -89,11 +89,23 @@ De webpagina’s die ik maak zijn zoveel mogelijk geoptimaliseerd voor de zoekma
 
 ### Herzieningen
 
-Wij weten uit ervaring dat als er een vast bedrag voor het contract wordt gerekend er geen voordeel speelt voor u, omdat deze u vaak beperkt tot uw initiele idee. De prijs in dit contract is gebaseerd op een schatting van de inititele tijd die wij nodig hebben om uw visie succesvol te bereiken.  Uiteraard zijn wij flexiebel. Als u wijzigingen, nieuwe functies of een nieuw idee wilt doorvoeren, is dat uiteraard geen probleem. Hiervoor kunnen wij een nieuwe offerte maken.
+Het kan zijn dat u gedurende het project van gedachten veranderd, en dat wil ik niet inperken.
 
-### Juridische informatie
+Het tarief dat ik aan het begin van het contract met u heb afgesproken, is gebaseerd op het aantal dagen dat ik verwacht nodig te hebben om het resultaat te bereiken wat u met mij heeft afgesproken, maar ik wil graag flexibel zijn.
 
-Wij kunnen niet garanderen dat er geen fouten en daarom kunnen wij ook niet aansprakelijk zijn voor schade door derden, inclusief verloren omzet, verloren spaargeld of andere onverwachte uitgaven, ook niet als wij hierop gewezen zijn. Tot slot, als een herziening van dit contract zijn rechtsgeldigheid, verloopt of om een andere reden niet toegepast kan worden. Blijven de overige herzieningen wel in tact en blijven deze overige herzieningen wel rechtsgeldig en toepasbaar.
+Wilt u van gedachten veranderen of iets nieuws toevoegen, dan is dat geen probleem. Ik zal dan een aparte offerte opstellen gebaseerd op de extra tijd die ik daarvoor verwacht nodig te hebben.
+
+### Juridische zaken
+
+Ik voer mijn werk uit in overeenstemming met hoe er in deze sector wordt gewerkt, en op het niveau dat kan worden verwacht van een goed gekwalificeerd persoon met relevante ervaring.
+
+Dat gezegd hebbende, kan ik niet garanderen dat al mijn werk volledig foutloos zal zijn, en kan ik door u of derden niet aansprakelijk worden gehouden voor eventuele schade, inclusief gederfde inkomsten, gemiste besparingen of andere incidentele, hieruit voortvloeiende, of specifieke schade, zelfs als u mij hierover hebt geïnformeerd.
+
+Uw aansprakelijkheid naar mij toe is beperkt tot het bedrag van de vergoedingen opgenomen in dit contract, en u kunt ook niet aansprakelijk worden gehouden door mij of derden voor eventuele schade, inclusief gederfde inkomsten, gemiste besparingen of andere incidentele, hieruit voortvloeiende, of specifieke schade, zelfs als ik u hierover hebt geïnformeerd.
+
+Ten slotte, wanneer enige bepaling van deze overeenkomst onwettig, nietig, of om enige reden niet afdwingbaar is, dan wordt die bepaling scheidbaar van dit contract geacht, en zal het geen invloed hebben op de geldigheid en uitvoerbaarheid van de overige bepalingen.
+
+Oef.
 
 ### Copyright
 
