@@ -143,14 +143,6 @@ Ik behoud mij het recht voor om [percentage] rente per maand of gedeelte van een
 
 #### Betalingsschema
 
-Ik stuur mijn facturen elektronisch in Adobe PDF formaat. Mijn betalingsvoorwaarden zijn [aantal] dagen na de factuurdatum door BACS of het SWIFT-systeem internationale betalingen.
-
-Alle offertes zijn genoteerd in [valuta] en betalingen zullen worden gemaakt op de overeenkomende wisselkoers op de datum waarop de overdracht plaatsvindt. De juiste bankgegevens staan op mijn elektronische factuur.
-
-U stemt ermee in eventueel alle kosten die worden geassocieerd met de internationale geldovermakingen te betalen.
-
-Ik behoud mij het recht voor om [percentage] rente per maand of gedeelte van een maand op alle achterstallige facturen te heffen.
-
 ### Waar zijn de 'kleine lettertjes'?
 
 Net als bij een parkeerboete kunnen wij dit contract allebei niet aan een andere persoon overdragen zonder de toestemming van de ander.
