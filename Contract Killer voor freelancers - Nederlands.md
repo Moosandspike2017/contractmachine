@@ -162,7 +162,7 @@ Hoewel het taalgebruik redelijk eenvoudig is, zijn de bedoelingen serieus, en is
 
 Ondertekend op	:	
 		
-Naam	:	
+Naam		:	
 Onderneming	:	
 
 
@@ -170,7 +170,7 @@ Onderneming	:
 
 Ondertekend op	:	
 		
-Naam	:	
+Naam		:	
 Onderneming	:	
 
 
