@@ -125,7 +125,7 @@ Ik bezit de intellectuele eigendomsrechten voor alles wat ik hebt ontwikkeld voo
 
 ### Weergave van mijn werk
 
-Ik hou ervan mijn werk te laten zien. Daarvoor behoud ik me het recht voor alle aspecten van mijn creatieve werk, met inbegrip van schetsen, work-in-progress ontwerpen en het voltooide project op mijn portfolio en in artikelen op websites, artikelen in tijdschriften, en in boeken te tonen.
+Ik laat mijn werk graag zien. Daarvoor behoud ik me het recht voor alle aspecten van mijn creatieve werk, met inbegrip van schetsen, work-in-progress ontwerpen en het voltooide project op mijn portfolio en in artikelen op websites, artikelen in tijdschriften, en in boeken te tonen.
 
 ### Betalingen
 
