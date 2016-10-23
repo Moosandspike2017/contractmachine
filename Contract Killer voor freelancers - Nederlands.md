@@ -11,7 +11,7 @@ Het contract is in eerste instantie vertaald naar het Nederlands door [Tim Hogen
 * * *
 
 
-Contract tussen [freelancer] en [naam opdrachtgever]
+# Contract tussen [freelancer] en [naam opdrachtgever]
 
 ## Samenvatting
 
