@@ -75,9 +75,17 @@ Ik test mijn werk in:
 Ik test niet op Blackberry, Opera Mini voor Mobiel, Windows Phone, of met andere mobiele browsers. Wilt u dat ik hierop test, dan kan ik hiervoor een aparte offerte opstellen.
 
 ### Technische ondersteuning
+Ik ben geen hostingbedrijf, en lever hierom geen ondersteuning voor website hosting, email, of andere diensten met betrekking tot de hosting van uw site.
 
-Wij zijn geen web hosting bedrijf, daarom leveren wij geen support voor website hosting, email of andere diensten met betrekking tot hosting. Als u al een samenwerking heeft met een webhosting bedrijf, of als u dit in house doet is dat fijn. Mocht dit niet het geval zijn, dan kunnen wij u helpen met het aanraden van een web hosting bedrijf. Wij kunnen de website instellen op een server en eventueel statistische software installeeren als Google Analytics.
-Mocht dit het geval zijn, maken wij hiervoor een apparte offerte. Als u dit niet doet komen de updates van de website en server voor uw eigen rekening.
+U heeft misschien al een professioneel hosting contract afgesloten, of u host uw website zelf; als dat zo is, mooi zo. Is dit niet het geval, dan kan ik een account voor u opzetten bij één van de hostingbedrijven waar ik goede ervaringen mee heb.
+
+Ik kan uw site opzetten op de server van het hostingbedrijf, en email adressen voor u aanmaken. Hiervoor kan ik een aparte offerte opstellen.
+
+Hierna bent u verantwoordelijkheid voor het bijhouden van de server en eventueel installeren van updates wanneer uw hostingbedrijf dit niet doet.
+
+### Zoekmachineoptimalisatie (SEO)
+
+De webpagina’s die ik maak zijn zoveel mogelijk geoptimaliseerd voor de zoekmachines; ik kan echter niet garanderen dat uw website ook goed scoort in de zoekmachines.
 
 ### Herzieningen
 
