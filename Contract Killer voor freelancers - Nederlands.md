@@ -85,7 +85,7 @@ Hierna bent u verantwoordelijkheid voor het bijhouden van de server en eventueel
 
 ### Zoekmachineoptimalisatie (SEO)
 
-De webpagina’s die ik maak zijn zoveel mogelijk geoptimaliseerd voor de zoekmachines; ik kan echter niet garanderen dat uw website ook goed scoort in de zoekmachines. Daar zijn veel factoren op van invloed waar ik geen invloed op heb.
+De webpagina’s die ik maak zijn zoveel mogelijk geoptimaliseerd voor de zoekmachines; ik kan echter niet garanderen dat uw website ook goed scoort in de zoekmachines. Dat is afhankelijk van veel factoren waar ik geen invloed op heb.
 
 ### Herzieningen
 
