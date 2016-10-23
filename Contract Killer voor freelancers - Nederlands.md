@@ -157,21 +157,15 @@ Hoewel het taalgebruik redelijk eenvoudig is, zijn de bedoelingen serieus, en is
 
 ### Handtekeningen Webdesign Contract
 
-
-
-
 Ondertekend op	:	
 		
-Naam : 
-Onderneming : 
+Naam	:	
+Onderneming	:	
 
 
 
 
 Ondertekend op	:	
 		
-Naam : 
-Onderneming : 
-
-
-*Elk persoon die dit document tekent moet een kopie houden voor de eigen administratie.*
+Naam	:	
+Onderneming	:	
