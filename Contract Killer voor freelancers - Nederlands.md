@@ -162,16 +162,16 @@ Hoewel het taalgebruik redelijk eenvoudig is, zijn de bedoelingen serieus, en is
 
 Ondertekend op	:	
 		
-Naam		:	
-Onderneming	:	
+Naam		:	[naam opdrachtgever]
+Onderneming	:	[bedrijfsnaam opdrachtgever]
 
 
 
 
 Ondertekend op	:	
 		
-Naam		:	
-Onderneming	:	
+Naam		:	[naam freelancer]
+Onderneming	:	[bedrijfsnaam freelancer]
 
 
 *Elk persoon die dit document tekent moet een kopie houden voor de eigen administratie.*
