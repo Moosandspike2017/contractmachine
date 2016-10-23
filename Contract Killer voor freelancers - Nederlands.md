@@ -133,6 +133,14 @@ Ik weet zeker dat u begrijpt hoe belangrijk het is voor een klein bedrijf dat u 
 
 #### Betalingsdetails
 
+Ik stuur mijn facturen elektronisch in Adobe PDF formaat. Betaal uw facturen binnen [aantal] dagen na de factuurdatum.
+
+Alle offertes zijn genoteerd in euro’s (€).
+
+U stemt ermee in - waar nodig - alle kosten die worden geassocieerd met internationale geldovermakingen te betalen.
+
+Ik behoud mij het recht voor om [percentage] rente per maand of gedeelte van een maand op alle achterstallige facturen te heffen.
+
 #### Betalingsschema
 
 Ik stuur mijn facturen elektronisch in Adobe PDF formaat. Mijn betalingsvoorwaarden zijn [aantal] dagen na de factuurdatum door BACS of het SWIFT-systeem internationale betalingen.
