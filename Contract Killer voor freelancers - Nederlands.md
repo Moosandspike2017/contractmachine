@@ -143,6 +143,8 @@ Ik behoud mij het recht voor om [percentage] rente per maand of gedeelte van een
 
 #### Betalingsschema
 
+[eventueel betalingsschema]
+
 ### Waar zijn de 'kleine lettertjes'?
 
 Net als bij een parkeerboete kunnen wij dit contract allebei niet aan een andere persoon overdragen zonder de toestemming van de ander.
