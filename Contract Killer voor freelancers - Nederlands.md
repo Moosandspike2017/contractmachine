@@ -19,8 +19,9 @@ Ik doen altijd mijn best om uw wensen te vervullen en uw verwachtingen te evenar
 
 In dit contract komt u geen moeilijke juridische termen of lange stukken onleesbare tekst. Het is niet mijn bedoeling u een contract te laten tekenen waar u misschien later spijt van krijgt. Wel wil ik het beste doen voor beide partijen, nu en in de toekomst.
 
-U ([naam opdrachtgever]), gevestigd aan [adres opdrachtgever] huurt mij, ([bedrijfsnaam]) gevestigd aan [adres bedrijf] in om voor u een website te ontwikkelen voor de geschatte totaalprijs van [totaal], zoals besproken in onze gesprekken.
-Het ligt uiteraard iets gecompliceerder dan dit, maar daar komen we zo op terug.
+U, [naam opdrachtgever] van [naam bedrijf], gevestigd aan [volledig adres opdrachtgever] huurt mij, [naam freelancer] van [naam bedrijf freelancer] gevestigd aan [volledig adres bedrijf freelancer] in om voor u een website te ontwikkelen voor de geschatte totaalprijs van [totaal], zoals overeengekomen in onze gesprekken en de offerte.
+
+Het ligt uiteraard iets gecompliceerder dan dit, maar daar kom ik zo op terug.
 
 ## Waar gaan beide partijen mee akkoord?
 
