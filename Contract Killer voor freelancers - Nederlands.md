@@ -168,5 +168,5 @@ Onderneming	:
 
 Ondertekend op	:	
 		
-Naam	:	
+Naam	:	[naam freelancer]
 Onderneming	:	
